@@ -110,4 +110,4 @@ csharp_style_var_when_type_is_apparent = true:suggestion
 
 [*.vb]
 #visual_basic_preferred_modifier_order =
-#
+
